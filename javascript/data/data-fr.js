@@ -272,8 +272,8 @@ configFR = {
       "primaryExperiances": 4,
       "contact": {
         "intro": { "img": "assets/img/profile/profile-sm.png", "title": "Diplômé en 2012 a l’université de Full Sail aux Etats Unis, j’ai par la suite travaillé pour plusieurs studios d'enregistrement mondialement connus à Los Angeles, puis ai eu la chance de travailler chez Apple pendant deux années. Plus récemment, j’ai souhaité renforcer mes compétences en acquérant un master en informatique à l’université UCD de Dublin. S’inscrire dans une logique de progrès permanent est essentiel pour moi. Grâce à une telle expérience, je suis à même de m’intégrer facilement dans une équipe créative, multidisciplinaire, orientée vers des objectifs à court et moyen terme" },
-        "resumeName": "gc_resume_eng",
-        "title": "gc_resume_eng",
+        "resumeName": "gc_resume",
+        "title": "gc_resume",
         "email": "gregcousin126@gmail.com",
         "phone": "+33625859351",
         "initials": "GC",
