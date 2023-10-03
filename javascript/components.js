@@ -82,17 +82,11 @@ Vue.component("experience-section", {
 			</span>
 		</h2>
 		<span class="sub-section expand" @click="toggleOpen()">More
-		<span v-if="expand">▶️
-
-    </span>
-		<span v-else>🔽
-
-    </span>
-    </span>
+		<span v-if="expand">▶️</span><span v-else>🔽</span></span>
 		<div v-for='job in data' class='sub-section'>
 			<h3 class="header">{{job.title}}</h3>
 			<p class="sub-header">
-			<p >@ </span>{{job.company}} &middot; {{job.location}} &middot; {{job.from}} - {{job.to}}</p>
+			<p>@</span>{{job.company}} &middot; {{job.location}} &middot; {{job.from}} - {{job.to}}</p>
 			<p class="sub-header">⚡️ {{job.description}}</p>
 			<p class="sub-header">⚡️ {{job.summary}}</p>
 			<ul class="sub-section sub-section-list" v-if="expand" :style='{ height: 2.1 + "rem" }'><li v-for="r in job.results">{{r}}</li></ul>
@@ -148,7 +142,7 @@ Vue.component("education-section", {
 		<h2 class="header float-in-up">Education</h2>
 		<div v-for='degree in data' class='sub-section'>
 			<h3 class="header">{{degree.type}} · {{degree.subject}}</h3>
-			<span class="sub-header"><span >@ </span>{{degree.school}} &middot; {{degree.location}} &middot; {{degree.date}}</span>
+			<span class="sub-header"><span >@</span>{{degree.school}} &middot; {{degree.location}} &middot; {{degree.date}}</span>
 			<p class="sub-header">⚡️ {{degree.summary}}</p>
 			<div class="sub-section">
 				<ul class="results-inline">
@@ -274,9 +268,7 @@ Vue.component("letter-section", {
   props: ["letter"],
   template: `
 	<div class="section">
-		<div class="sub-section">
-			<slot>
-		</div>
+		<div class="sub-section"><slot></div>
 	</div>
   `,
 });
