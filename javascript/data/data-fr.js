@@ -60,7 +60,7 @@ resumeFR = {
             "url": "COMMING SOON",
             "description":"Ce projet a été pensé comme une nouvelle plateforme, la fusion des réseaux sociaux et du secteur commercial pour soutenir les artisans locaux",
             "features": ["Technologies de compression d'image 3D", "Lerna Monorepo", "Base de données Mongo", "Déploiement bleu/vert"],
-            "technologies": ["VUE 🥽", "TS 🔥", "SSH ✅", "FULLSTACK 📦", "GITLAB 🏃🏽‍♂️", "DOCKER 📃"]
+            "technologies": ["VUE 🥽", "TS 🚀", "SSH ✅", "FULLSTACK 📦", "GITLAB 🏃🏽‍♂️", "DOCKER 📃"]
           },
           {
             "title": "PREDICTED TEXT",
@@ -175,7 +175,7 @@ resumeFR = {
             "location": "Nantes FR",
             "description": "Développement de diverses applications permettant la détection du flux des transports en communs",
             "summary": "Cycle en V, Equipe de 5 membres",
-            "technologies": ["ANGULAR ⛰️", "TS 🧲", "SPRING / JAVA 👔", "REACT 💻", "POSTGRE 🌋", "WEBPACK 💠"],
+            "technologies": ["ANGULAR ⛰️", "TS 🚀", "SPRING / JAVA 👔", "REACT 💻", "POSTGRE 🌋", "WEBPACK 💠"],
             "results": ["Création de modules React/Vue/Angular pour des Micro-frontends", "Étude d'augmentation de version Angular 7 à 14 suivi par sa refonte", "Développement de système de comparaison", "Création d'un batch système (CSV)"]
           },
           {
@@ -186,7 +186,7 @@ resumeFR = {
             "location": "Nantes FR",
             "description": "Développement d'un programme de service d'appui à la transition énergétique adopté par l'ADEME",
             "summary": "Méthodologie Agile Scrum, un cycle de 4 semaines. Equipe de 5 membres",
-            "technologies": ["SPRING / JAVA 🌿", "TS 👾", "DOCKER 🛶", "ANGULAR, NGRX 🏬", "JEST 🧪", "OWASP 🕸"],
+            "technologies": ["SPRING / JAVA 👔", "TS 🚀", "DOCKER 🛶", "ANGULAR, NGRX 🏬", "JEST 🧪", "OWASP 🕸"],
             "results": ["Participation à l'architecture logicielle", "Développement du Front-end en Angular", "Développement du Back-end avec Spring Boot"]
           },
           {
@@ -220,7 +220,7 @@ resumeFR = {
             "description": "J’ai travaillé, en tant qu'auto-entrepreneur",
             "summary": "",
             "results": ["XOTOSPHÈRE : Fusion des réseaux sociaux et du secteur commercial pour soutenir les artisans locaux"],
-            "technologies": ["VUE 🥽", "TS 🔥", "SSH ✅", "FULLSTACK 📦", "GITLAB 🏃🏽‍♂️", "DOCKER 📃"]
+            "technologies": ["VUE 🥽", "TS 🚀", "SSH ✅", "FULLSTACK 📦", "GITLAB 🏃🏽‍♂️", "DOCKER 📃"]
           },
           {
             "company": "ROBERT LANG STUDIOS",

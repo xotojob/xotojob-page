@@ -89,8 +89,8 @@ Vue.component("experience-section", {
 			<p>@</span>{{job.company}} &middot; {{job.location}} &middot; {{job.from}} - {{job.to}}</p>
 			<p class="sub-header">⚡️ {{job.description}}</p>
 			<p class="sub-header">⚡️ {{job.summary}}</p>
-			<ul class="sub-section sub-section-list" v-if="expand" :style='{ height: 2.1 + "rem" }'><li v-for="r in job.results">{{r}}</li></ul>
-			<ul class="sub-section sub-section-list" v-if="!expand"><li v-for="r in job.results">{{r}}</li></ul>
+			<ul class="sub-section sub-section-list" v-if="expand" :style='{ height: 2.1 + "rem" }'><li v-for="r in job.results">&nbsp;{{r}}</li></ul>
+			<ul class="sub-section sub-section-list" v-if="!expand"><li v-for="r in job.results">&nbsp;{{r}}</li></ul>
 			<div class="sub-section">
 				<medium style="display: inline-block" v-if="job.technologies">TECH USED : </medium>
 				<small v-for="tech in job.technologies" class="tag">{{tech}}</small>
