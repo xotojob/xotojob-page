@@ -186,7 +186,7 @@ resumeFR = {
             "location": "Nantes FR",
             "description": "Développement d'un programme de service d'appui à la transition énergétique adopté par l'ADEME",
             "summary": "Méthodologie Agile Scrum, un cycle de 4 semaines. Equipe de 5 membres",
-            "technologies": ["SPRING 🌿", "TS 👾", "DOCKER 🛶", "JAVA 👔", "ANGULAR, NGRX 🏬", "JEST 🧪", "OWASP 🕸"],
+            "technologies": ["SPRING / JAVA 🌿", "TS 👾", "DOCKER 🛶", "ANGULAR, NGRX 🏬", "JEST 🧪", "OWASP 🕸"],
             "results": ["Participation à l'architecture logicielle", "Développement du Front-end en Angular", "Développement du Back-end avec Spring Boot"]
           },
           {

@@ -196,7 +196,7 @@ resumeEN = {
              "description": "Development of an energy transition program funded by the French government",
              "summary": "Agile Scrum methodology, a 4-week cycles. Team of 5 members",
              "results": ["Participation in the software architecture", "Front-end development with Angular", "Back-end development with Spring Boot"],
-             "technologies": ["SPRING 🌿", "TS 👾", "DOCKER 🛶", "JAVA 👔", "ANGULAR, NGRX 🏬", "JEST 🧪", "OWASP 🕸"]
+             "technologies": ["SPRING / JAVA 🌿", "TS 👾", "DOCKER 🛶", "ANGULAR, NGRX 🏬", "JEST 🧪", "OWASP 🕸"]
             },
            {
              "company": "IMAIOS",
