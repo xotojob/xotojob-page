@@ -71,7 +71,7 @@ Vue.component("page-footer", {
  */
 
 Vue.component("experience-section", {
-  props: ["data", "expand"],
+  props: ["data", "expand", "more"],
   template: `
 	<div class='section'>
 		<h2 class="header float-in-up">Experience&nbsp;
@@ -81,7 +81,7 @@ Vue.component("experience-section", {
 				</div>
 			</span>
 		</h2>
-		<span class="sub-section expand" @click="toggleOpen()">More
+		<span class="sub-section expand" @click="toggleOpen()">{{more}}
 		<span v-if="expand">▶️</span><span v-else>🔽</span></span>
 		<div v-for='job in data' class='sub-section'>
 			<h3 class="header">{{job.title}}</h3>
@@ -110,10 +110,10 @@ Vue.component("experience-section", {
  */
 
 Vue.component("project-section", {
-  props: ["data"],
+  props: ["data", "title"],
   template: `
 	<div class='section'>
-		<h2 class="header float-in-up">Personal Projects</h2>
+		<h2 class="header float-in-up">{{title}}</h2>
 		<div v-for='project in data' class='sub-section'>
 			<h3 class="header">
 				<a class="no-decorate" :href="project.url">{{project.title}} &middot; {{project.category}}</a>
@@ -136,10 +136,10 @@ Vue.component("project-section", {
  */
 
 Vue.component("education-section", {
-  props: ["data"],
+  props: ["data", "title"],
   template: `
 	<div class='section'>
-		<h2 class="header float-in-up">Education</h2>
+		<h2 class="header float-in-up">{{title}}</h2>
 		<div v-for='degree in data' class='sub-section'>
 			<h3 class="header">{{degree.type}} · {{degree.subject}}</h3>
 			<span class="sub-header"><span >@</span>{{degree.school}} &middot; {{degree.location}} &middot; {{degree.date}}</span>

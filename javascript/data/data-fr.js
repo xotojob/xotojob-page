@@ -1,11 +1,11 @@
 resumeFR = {
   "resume": {
-    "objective": "Ayant une expérience professionnelle franco-américaine en tant qu’ancien salarié chez Apple, Web Développeur chez l'ADEME, La Sncf puis chez L’oréal en France, je souhaiterais participer durablement au développement d’une entreprise française.",
+    "objective": {title : "objectif", text: "Ayant une expérience professionnelle franco-américaine en tant qu’ancien salarié chez Apple, Web Développeur chez l'ADEME, La Sncf puis chez L’oréal en France, je souhaiterais participer durablement au développement d’une entreprise française."},
     "profile": "Diplômé en 2012 a l’université de Full Sail aux Etats Unis, j’ai par la suite travaillé pour plusieurs studios d'enregistrement mondialement connus à Los Angeles, puis ai eu la chance de travailler chez Apple pendant deux années. Plus récemment, j’ai souhaité renforcer mes compétences en acquérant un master en informatique à l’université UCD de Dublin. S’inscrire dans une logique de progrès permanent est essentiel pour moi. Grâce à une telle expérience, je suis à même de m’intégrer facilement dans une équipe créative, multidisciplinaire, orientée vers des objectifs à court et moyen terme",
     "certificate": {"title": "Cerficates", "dataSet": [{"title": "HTML5 and CSS 3", "value": "Udemy", "date": "(Oct. 2019)", "img": "assets/img/courses_cert/img1-min.jpg"}]},
     "hobbie": {"title": "Interests", "hobbies": ["Programming 🧑🏽‍💻", "Football ⚽️", "Travelling ✈️"]},
     "academic": {
-      "title": "Academic",
+      "title": "Académique",
       "educations": [
           {
             "type": "MSC",
@@ -42,7 +42,7 @@ resumeFR = {
       "award": {"title": "Honor Awards", "dataSet": [{"title": "1st Position Winner", "value": "Writing Competition", "date": "(2010)"}]},
       "language": {"title": "Languages", "dataSet": [{"title": "English 🇺🇸", "value": "(Professional)"}, {"title": "French 🇫🇷", "value": "(Native)"}, {"title": "Spanish 🇪🇸", "value": "(Conversational)"}]},
       "project": {
-      "title": "Projects",
+      "title": "Projets",
       "projects": [
           {
             "title": "XOTOCAMP.COM",
@@ -129,7 +129,7 @@ resumeFR = {
         ]
       },
       "skill": {
-      "title": "Skills",
+      "title": "Compétences",
       "subtitle": "Technical",
       "dataSet": [
         { "title": "Bilingue", "level": 4, "description": "Bilingue en français et en anglais ayant vécu au Colorado et à Seattle aux États-Unis, Dublin en Irlande et Paris en France" },
@@ -153,7 +153,8 @@ resumeFR = {
         ]
       },
       "work": {
-        "title": "Work Experiences",
+        "title": "Expériences de travail",
+        "more": "Plus",
         "experiences": [
           {
             "company": "L’ORÉAL",

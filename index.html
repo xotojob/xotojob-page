@@ -68,15 +68,15 @@
 				</cv-content>
 				<cv-content>
 					<column width="34">
-						<simple-section v-if="data.config.objectiveIsDefined" title="Objective"><p class="sub-section">{{data.resume.objective}}</p></simple-section>
+						<simple-section v-if="data.config.objectiveIsDefined" :title="data.resume.objective.title"><p class="sub-section">{{data.resume.objective.text}}</p></simple-section>
 						<simple-section v-if="data.config.profileIsDefined" title="Profile"><p class="sub-section">{{data.resume.profile}}</p></simple-section>
-						<skill-section :data="data.resume.skill.dataSet.slice(0, data.config.primarySkills)" title="Skills"></skill-section>
+						<skill-section :data="data.resume.skill.dataSet.slice(0, data.config.primarySkills)" :title="data.resume.skill.title"></skill-section>
 					</column>
 					<column width="2">
 					</column>
 					<column width="64">
-						<experience-section :expand="false" :data="data.resume.work.experiences.slice(0, data.config.primaryExperiances)"></experience-section>
-						<education-section :data="data.resume.academic.educations.slice(0, data.config.primaryEducations)"></education-section>
+						<experience-section :expand="false" :data="data.resume.work.experiences.slice(0, data.config.primaryExperiances)" :more="data.resume.work.more"></experience-section>
+						<education-section :data="data.resume.academic.educations.slice(0, data.config.primaryEducations)" :title="data.resume.academic.title"></education-section>
 					</column>
 				</cv-content>
 
@@ -109,12 +109,12 @@
 			<page>
 				<cv-content>
 					<column width="34">
-						<skill-section :data="data.resume.skill.dataSet.slice(data.config.primarySkills, data.config.primarySkills + data.config.secondarySkills)" title="Skills Extra"></skill-section>
+						<skill-section :data="data.resume.skill.dataSet.slice(data.config.primarySkills, data.config.primarySkills + data.config.secondarySkills)" :title="data.resume.skill.title + ` ` + `extra`"></skill-section>
 					</column>
 					<column width="2">
 					</column>
 					<column width="64">
-						<project-section :data="data.resume.project.projects.slice(0, data.config.primaryProjects)" ></project-section>
+						<project-section :data="data.resume.project.projects.slice(0, data.config.primaryProjects)" :title="data.resume.project.title"></project-section>
 					</column>
 				</cv-content>
 				<cv-content>
