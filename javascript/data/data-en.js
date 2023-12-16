@@ -1,6 +1,6 @@
 resumeEN = {
   resume : {
-        "objective": {title : "objective", text: "Currently looking for a job in the IT field, I am offering my application as a Web Developer to provide a high level of efficiency and productivity."},
+        "objective": {title : "objective", text: "Currently looking for a job in the IT field, I am offering my application as a Software Engineer to provide a high level of efficiency and productivity. Due to my curious, passionate and hard working nature, I am confident that I will bring a great value to your team and project"},
         "profile": "I am a graduate with a masters in computer science currently working as a Web Developer. I have always been passionate about technology, first graduating in 2012 with a degree in sound engineering and subsequently working for several world wide known recording studios. My passion for technology then led me to work for Apple Inc. which further drove me to explore computer programming as a career path. I have found that the combination of technical knowledge, logic, and creativity that programming requires is highly fulfilling and continues to fascinate me to this day. Given my dynamic and inquisitive nature, I could not see myself working in any other field. I have come to the realization that the diverse application of programming knows no bounds! I believe that technology has strong potential for bringing people together and stimulating human progress at a faster and more efficient pace than ever before",
         "certificate": {"title": "Cerficates", "dataSet": [{"title": "HTML5 and CSS 3", "value": "Udemy", "date": "(Oct. 2019)", "img": "assets/img/courses_cert/img1-min.jpg"}]},
         "hobbie": {"title": "Interests", "hobbies": ["Programming 🧑🏽‍💻", "Football ⚽️", "Listening 👂🏻", "Travelling ✈️"]},
@@ -172,7 +172,7 @@ resumeEN = {
             "location": "Nantes FR",
             "description": "Development of an internal Security tool for all of applications in SNCF Connect",
             "summary": "Agile Scrum methodology, 2-week cycles. Team of 7 members",
-            "technologies": ["Python 🐍", "React 🔥", "AWS 📦", "Lambda 👀", "DynamoDB/RDS 📀", "CloudFormation 🕸️", "API Gateway 🚀", "StepFunctions 🪜", "S3 🪣" ],
+            "technologies": ["Python 🐍", "React 🔥", "AWS 📦", "DynamoDB/RDS 📀", "CloudFormation 🕸️", "S3 🪣" ],
             "results": ["Creation of Python Lambda and Step Functions", "Cross service architecture and system design", "Monitoring analytics with Datadog / Cloud Watch", "Creation of AWS Step functions, Layers and Gateways", "Frontend development with React", "Database modeling, interaction with Dynamo and RDS"]
           },
           {
@@ -288,7 +288,7 @@ configEN = {
 	"profileIsDefined": false,
 	"primaryEducations": 2,
 	"primaryProjects": 5,
-	"primarySkills": 11,
+	"primarySkills": 10,
 	"secondarySkills": 12,
 	"primaryExperiances": 4,
   "contact": {

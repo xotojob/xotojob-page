@@ -134,7 +134,7 @@ resumeFR = {
       "dataSet": [
         { "title": "Bilingue", "level": 4, "description": "Bilingue en français et en anglais ayant vécu au Colorado et à Seattle aux États-Unis, Dublin en Irlande et Paris en France" },
         { "title": "Java", "level": 3, "description": "Expérience en application Web. Java, Kafka, Redis, Elastic Search via Spring Boot" },
-        { "title": "Web Development", "level": 4, "description": "Haut niveau d'expérience sur les technologies de développement web, design storybook, accessibilité, architectures, développement d'applications web évolutives et tolérantes aux erreurs. Expérience en Déploiement et hébergement de sites Web sur des serveurs Linux" },
+        { "title": "Web Development", "level": 4, "description": "Haut niveau d'expérience sur les technologies de développement web, design storybook, accessibilité, architectures, développement d'applications web évolutives et tolérantes aux erreurs" },
         { "title": "UX & UI Design", "level": 4, "description": "Très bonne maitrise, motivation et une bonne intuition qui permettent de fournir la meilleure expérience utilisateur UX UI" },
         { "title": "Node", "level": 4, "description": "Haut niveau d’expérience sur l'écriture d'applications Node, Express" },
         { "title": "TypeScript & JavaScript", "level": 4, "description": "Compétence en JS, TS sur les interfaces front-end et back-end, le DOM, Tree Shaking, Shadow DOM, et la connaissance de l'environnement et des fonctions d'exécution JavaScript" },
@@ -164,7 +164,7 @@ resumeFR = {
             "location": "Nantes FR",
             "description": "Développement d'un outil de sécurité interne pour l'ensemble des applications chez SNCF Connect",
             "summary": "Agile Scrum, cycles de 2 semaines. Équipe de 7 membres",
-            "technologies": ["Python 🐍", "React 🔥", "AWS 📦", "Lambda 👀", "DynamoDB/RDS 📀", "CloudFormation 🕸️", "API Gateway 🚀", "StepFunctions 🪜", "S3 🪣" ],
+            "technologies": ["Python 🐍", "React 🔥", "AWS 📦", "DynamoDB/RDS 📀", "CloudFormation 🕸️", "S3 🪣" ],
             "results": ["Création de StepFonctions Lambda en Python", "Architecture cross services", "Monitoring avec Datadog / Cloud Watch", "Création de AWS Step fonctions, Layers et Gateways", "Développement front-end React", "Modélisation de bases de données, interaction avec DynamoDB et RDS"]
           },
           {
@@ -279,7 +279,7 @@ configFR = {
       "profileIsDefined": false,
       "primaryEducations": 2,
       "primaryProjects": 5,
-      "primarySkills": 11,
+      "primarySkills": 10,
       "secondarySkills": 12,
       "primaryExperiances": 4,
       "contact": {
