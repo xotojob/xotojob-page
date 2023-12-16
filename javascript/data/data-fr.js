@@ -49,7 +49,7 @@ resumeFR = {
             "type": "PRIVATE",
             "category": "DASHBOARD",
             "url": "COMMING SOON",
-            "description": "Ce projet est fait pour permettre de couvrir les rôles dans une entreprise et faciliter le management d'une équipe",
+            "description": "Ce projet est a été conçu pour permettre de couvrir les rôles dans une entreprise et faciliter le management d'une équipe",
             "features": ["Plateforme CMS", "Plateforme Analytics", "Système de gestion d'utilisateurs"],
             "technologies": ["VUE 3 📦", "MONGO DB 🦄", "STORYBOOK 🔥",  "GITHUB CODE ACTIONS 🏃🏽‍♂️", "PRISMA ⚡️"]
           },
@@ -66,8 +66,8 @@ resumeFR = {
             "title": "PREDICTED TEXT",
             "category": "Simulation de clavier de téléphone",
             "url": "COMMING SOON",
-            "description": "Un dictionnaire est utilisé par le système pour «prédire» laquelle des lettres du clavier l'utilisateur s'apprête réellement à utiliser",
-            "features": ["Implémentation d'un composant dictionnaire", "L'utilisation de nodes et de trees"],
+            "description": "Un dictionnaire est utilisé par le système pour «prédire» les lettres du clavier que l'utilisateur s'apprête réellement à utiliser",
+            "features": ["mise en oeuvre d'un composant dictionnaire", "L'utilisation de nodes et de trees"],
             "technologies": [ "JAVA 👔", "BUFFERS 📊", "STREAMS 🚃", "FILEREADERS 📖", "LISTS ✅", "TREES 🌲"]
           },
           {

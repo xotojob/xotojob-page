@@ -1,6 +1,6 @@
 resumeEN = {
   resume : {
-        "objective": {title : "objective", text: "Currently looking for a job in the IT field, I am offering my candidacy as a Web Developer to ensure a high level of efficiency and productivity."},
+        "objective": {title : "objective", text: "Currently looking for a job in the IT field, I am offering my application as a Web Developer to provide a high level of efficiency and productivity."},
         "profile": "I am a graduate with a masters in computer science currently working as a Web Developer. I have always been passionate about technology, first graduating in 2012 with a degree in sound engineering and subsequently working for several world wide known recording studios. My passion for technology then led me to work for Apple Inc. which further drove me to explore computer programming as a career path. I have found that the combination of technical knowledge, logic, and creativity that programming requires is highly fulfilling and continues to fascinate me to this day. Given my dynamic and inquisitive nature, I could not see myself working in any other field. I have come to the realization that the diverse application of programming knows no bounds! I believe that technology has strong potential for bringing people together and stimulating human progress at a faster and more efficient pace than ever before",
         "certificate": {"title": "Cerficates", "dataSet": [{"title": "HTML5 and CSS 3", "value": "Udemy", "date": "(Oct. 2019)", "img": "assets/img/courses_cert/img1-min.jpg"}]},
         "hobbie": {"title": "Interests", "hobbies": ["Programming 🧑🏽‍💻", "Football ⚽️", "Listening 👂🏻", "Travelling ✈️"]},
@@ -58,7 +58,7 @@ resumeEN = {
              "type": "PRIVATE",
              "category": "E-COM",
              "url": "COMMING SOON",
-             "description": "This project is designed as a new platform, merging social media and the commercial industry to supp ort local artisans",
+             "description": "This project is designed as a new platform, merging social media and the commercial industry to support local artisans",
              "features": ["3D image compression technologies", "lerna monorepo", "mongo database", "blue-green deployment"],
              "technologies": ["VUE 🥽", "TS 🔥", "SSH ✅", "FULLSTACK 📦", "GITLAB-RUNNER 🏃🏽‍♂️", "DOCKER 📃"]
            },
@@ -76,7 +76,7 @@ resumeEN = {
              "type": "OPEN SOURCE",
              "category": "Keyboard Phone Simulation",
              "url": "COMMING SOON",
-             "description": "A dictionary is used by the system to “predict” which of the letters of the key the user actually wanted to use",
+             "description": "A dictionary is used by the system to “predict” which of the letters of the keyboard the user actually wanted to use",
              "features": ["Implementation of a Dictionary component", "The use of nodes and trees"],
              "technologies": [ "JAVA 👔", "BUFFERS 📊", "STREAMS 🚃", "FILEREADERS 📖", "LISTS ✅", "TREES 🌲"]
            },
@@ -148,7 +148,7 @@ resumeEN = {
            {"title": "RESTFUL API Design", "level": 3,  "description": "Intermediate experience designing and developing RESTFUL APIs for Web Applications and Services"},
            {"title": "UX Design", "level": 4,  "description": "Extreme drive and intuition to provide the best user experience for customers"},
            {"title": "Agile, Design Patterns, UML", "level": 3,  "description": "High level of Experience Assessing project requirements using Agile & Scrum principles related to the high-volume online services"},
-           {"title": "Software Testing", "level": 4,  "description": "Adept knowledge of testing best practices, test driven development, and behavior driven development using Jest, Runscope, Ghost Inspector, JUnit, TestNG and Mocha"},
+           {"title": "Software Testing", "level": 4,  "description": "Good knowledge of testing best practices, test driven development, and behavior driven development using Jest, Runscope, Ghost Inspector, JUnit, TestNG and Mocha"},
            {"title": "Frameworks", "level": 3,  "description": "Moderate experience designing and developing Web applications with Vue, React and Angular"},
            {"title": "Python", "level": 3,  "description": "Intermediate proficiency with Python, its constructs, best practices, advantages and shortfalls. Extensive knowledge of available libraries and PIP"},
            {"title": "Docker", "level": 3,  "description": "Intermediate proficiency with Docker, Docker Compose, with experience containerizing existing applications and knowledge of advantages and shortfalls of application containers and microservice architectures"},
@@ -181,7 +181,7 @@ resumeEN = {
             "from": "September 2021",
             "to": "Avril 2022",
             "location": "Nantes FR",
-            "description": "Development and management of various applications for the detection of public transport flows",
+            "description": "Development and management of various applications for the detection of public transportation flows",
             "summary": "V-Model methodology, 2-week cycles. Team of 5 members",
             "technologies": ["ANGULAR ⛰️", "TS 🧲", "SPRING / JAVA 👔", "REACT 💻", "POSTGRE 🌋", "WEBPACK 💠"],
             "results": ["Creation of React/Vue/Angular modules for micro-frontends", "Study of a version upgrade from Angular 7 to 14 with subsequent redesign", "Development of a comparison system", "Creation of a batch system (CSV)"]
