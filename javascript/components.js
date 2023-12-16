@@ -52,7 +52,7 @@ Vue.component("column", {
 Vue.component("drop-target", {
   props: ["visible"],
   template:
-    '<div v-if="visible" class="drop-target">FullStack Web Developer</div>',
+    '<div v-if="visible" class="drop-target">FullStack Software Engineer</div>',
 });
 
 /**
