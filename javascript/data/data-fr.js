@@ -143,7 +143,7 @@ resumeFR = {
         { "title": "Frameworks", "level": 3, "description": "Expérience intermédiaire en design et développement d'applications Web avec Vue, React et Angular" },
         { "title": "Python", "level": 3, "description": "Compétence intermédiaire sur Python, ses concepts, les meilleures pratiques, ses avantages et ses lacunes. Connaissance approfondie des libs disponibles, pip, poetry et django" },
         { "title": "Docker", "level": 3, "description": "Compétences intermédiaires sur Docker, Docker-Compose avec une expérience de conteneurisation des applications existantes, la connaissance des avantages et des lacunes des conteneurs d'application, et des architectures de micro-service" },
-        { "title": "AWS", "level": 3, "description": "Expérience en EC2, S3, API Gateway, Lambda, Layers entre autre services par AWS. Expérience de conversion des solutions logicielles existantes en Amazon Machine Images" },
+        { "title": "AWS", "level": 4, "description": "Expérience en EC2, S3, API Gateway, Lambda, Layers entre autre services par AWS. Expérience de conversion des solutions logicielles existantes en Amazon Machine Images" },
         { "title": "Agile", "level": 4, "description": "Haut niveau d’expérience d'évaluation des exigences du projet à l'aide des principes Agile et Scrum liés au service en ligne à haut volume" },
         { "title": "Git", "level": 4, "description": "Expérience en utilisation de Git CLI, GitHub, GitLab et Azure pour collaborer avec une équipe et contrôler les versions logicielles" },
         { "title": "Postgres, MySQL & MongoDB", "level": 3, "description": "Connaissance intermédiaire de la syntaxe SQL, des dialogues et fonctionnalités. Bonne expérience sur PostgreSQL et MongoDB" },
@@ -156,6 +156,17 @@ resumeFR = {
         "title": "Expériences de travail",
         "more": "Plus",
         "experiences": [
+          {
+            "company": "SNCF CONNECT",
+            "title": "FULLSTACK INGÉNIEUR LOGICIEL AWS REACT",
+            "from": "Octobre 2023",
+            "to": "Présent",
+            "location": "Nantes FR",
+            "description": "Développement d'un outil de sécurité interne pour l'ensemble des applications chez SNCF Connect",
+            "summary": "Agile Scrum, cycles de 2 semaines. Équipe de 7 membres",
+            "technologies": ["Python 🐍", "React 🔥", "AWS 📦", "Lambda 👀", "DynamoDB/RDS 📀", "CloudFormation 🕸️", "API Gateway 🚀", "StepFunctions 🪜", "S3 🪣" ],
+            "results": ["Création de StepFonctions Lambda en Python", "Architecture cross services", "Monitoring avec Datadog / Cloud Watch", "Création de AWS Step fonctions, Layers et Gateways", "Développement front-end React", "Modélisation de bases de données, interaction avec DynamoDB et RDS"]
+          },
           {
             "company": "L’ORÉAL",
             "title": "CROSS SERVICE SOFTWARE ENGINEER",
