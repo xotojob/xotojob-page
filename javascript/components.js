@@ -289,6 +289,7 @@ Vue.component("contact-section", {
 		<h1>{{config.contact.role}}</h1>
 		<h1>{{config.contact.applicant}}</h1>
 		<h1>{{config.contact.phone}}</h1>
+		<img src="./img/avatar/portrait.png"/>
 	</div>
   `,
 });
