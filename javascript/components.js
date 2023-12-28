@@ -298,7 +298,6 @@ Vue.component("fairwell-section", {
   props: ["letter"],
   template: `
 	<div class="section">
-		<a :href="letter.lastProjectLink"><p class="sub-header">{{letter.lastProjectLink}}</p></a>
 		<p class="sub-header">{{letter.letterFairwell}}</p>
 		<slot>
 	</div>
