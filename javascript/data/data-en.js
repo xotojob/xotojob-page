@@ -284,7 +284,7 @@ configEN = {
   config : {
 	"version": "0.0.1",
 	"objectiveIsDefined": true,
-	"letter": false,
+	"letter": true,
 	"profileIsDefined": false,
 	"primaryEducations": 2,
 	"primaryProjects": 5,
