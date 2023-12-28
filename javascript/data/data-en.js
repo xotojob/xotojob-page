@@ -283,7 +283,7 @@ configEN = {
   config : {
 	"version": "0.0.1",
 	"objectiveIsDefined": true,
-	"letter": true,
+	"letter": false,
 	"profileIsDefined": false,
 	"primaryEducations": 2,
 	"primaryProjects": 5,
