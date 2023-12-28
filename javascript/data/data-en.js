@@ -195,7 +195,7 @@ resumeEN = {
             "description": "Development and management of various applications for the detection of public transportation flows",
             "summary": "V-Model methodology, 2-week cycles. Team of 5 members",
             "technologies": ["ANGULAR ⛰️", "TS 🧲", "SPRING / JAVA 👔", "REACT 💻", "POSTGRE 🌋", "WEBPACK 💠"],
-            "results": ["Creation of React/Vue/Angular modules for micro-frontends", "Study of a version upgrade from Angular 7 to 14 with subsequent redesign", "Development of a comparison system", "Creation of a batch system (CSV)"]
+            "results": ["Creation of React/Angular modules for micro-frontends", "Study of a version upgrade from AngularJS to 14 with subsequent redesign", "Development of a cache system", "Creation of a batch system"]
           },
 
            {

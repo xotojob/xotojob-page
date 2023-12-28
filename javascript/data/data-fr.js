@@ -187,7 +187,7 @@ resumeFR = {
             "description": "Développement de diverses applications permettant la détection du flux des transports en communs",
             "summary": "Cycle en V, Equipe de 5 membres",
             "technologies": ["ANGULAR ⛰️", "TS 🚀", "SPRING / JAVA 👔", "REACT 💻", "POSTGRE 🌋", "WEBPACK 💠"],
-            "results": ["Création de modules React/Vue/Angular pour des Micro-frontends", "Étude d'augmentation de version Angular 7 à 14 suivi par sa refonte", "Développement de système de comparaison", "Création d'un batch système (CSV)"]
+            "results": ["Création de modules React/Angular pour des Micro-frontends", "Étude d'augmentation de version AngularJS à 14 suivi par sa refonte", "Développement de système de comparaison", "Création d'un batch système"]
           },
           {
             "company": "ONEPOINT",
