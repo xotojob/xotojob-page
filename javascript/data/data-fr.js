@@ -174,7 +174,7 @@ resumeFR = {
             "to": "Septembre 2023",
             "location": "Nantes FR",
             "description": "Développement de plusieurs applications front-end au sein de l'Éco Système L'Oréal",
-            "summary": "Agile Scrum, cycles de 2 semaines. Équipe de 12 membres",
+            "summary": "Agile Scrum, cycles de 2 semaines. Équipe de 20 membres",
             "technologies": ["TS 🚀", "VUE 👀", "FIREBASE 🔥", "STORYBOOK 🌱", "VITE 🎁", "SCSS 🧑‍🎨", "FIGMA 🧩"],
             "results": ["Re-factorisation et adaptation pour utiliser BEM comme syntaxe de classes", "Mise en œuvre de test de bout en bout avec Cypress", "Participation à la conception d'une architecture monolithique dynamique", "Développement d'un système d'automatisation"]
           },
@@ -185,7 +185,7 @@ resumeFR = {
             "to": "Avril 2022",
             "location": "Nantes FR",
             "description": "Développement de diverses applications permettant la détection du flux des transports en communs",
-            "summary": "Cycle en V, Equipe de 5 membres",
+            "summary": "Cycle en V, Equipe de 7 membres",
             "technologies": ["ANGULAR ⛰️", "TS 🚀", "SPRING / JAVA 👔", "REACT 💻", "POSTGRE 🌋", "WEBPACK 💠"],
             "results": ["Création de modules React/Angular pour des Micro-frontends", "Étude d'augmentation de version AngularJS à 14 suivi par sa refonte", "Développement de système de comparaison", "Création d'un batch système"]
           },
@@ -212,6 +212,17 @@ resumeFR = {
             "technologies": ["NODEJS 🔥", "EJS 🕸", "WEBSOCKETS 🚃", "PHP 🤓", "UNITTESTING 👨🏼‍🔬", "LIGHTHOUSE 🚨"]
           },
           {
+            "company": "XOTOSPHÈRE",
+            "title": "DÉVELOPPEUR AUTO-ENTREPRENEUR",
+            "from": "Septembre 2019",
+            "to": "Aujourd'hui",
+            "location": "Nantes, FR",
+            "description": "J’ai travaillé, en tant qu'auto-entrepreneur",
+            "summary": "Méthodologie Agile Scrum. Equipe de 3 personnes",
+            "results": ["XOTOSPHÈRE : Fusion des réseaux sociaux et du secteur commercial pour soutenir les artisans locaux"],
+            "technologies": ["VUE 🥽", "TS 🚀", "SSH ✅", "FULLSTACK 📦", "GITLAB 🏃🏽‍♂️", "DOCKER 📃"]
+          },
+          {
             "company": "APPLE STORE",
             "title": "TECHNICIEN IOS ET OSX",
             "from": "Juillet 2014",
@@ -221,17 +232,6 @@ resumeFR = {
             "summary": "Établissement d'expériences de communication fructueuses avec les marques les plus reconnues au monde. Vente: 1,5M$ de produits utilisant des techniques de vente pour transformer les clients en promoteurs. Animation des ateliers de formation sur les produits et les ateliers de maintenance et dépannage grâce à mes compétences en communication . Travail d’équipe avec les autres membres pour faire face aux interactions difficiles et aux plaintes",
             "results": ["Utilisation de techniques de vente pour transformer les clients en promoteurs", "Développement d'expériences de communication efficaces avec des marques reconnues", "Travail d’équipe avec les autres membres pour faire face aux interactions difficiles et aux plaintes", "Animation d'ateliers de formation sur les produits et d'ateliers de maintenance et dépannage"],
             "technologies": ["IOS 📱", "OSX 🍏", "DIAGNOSTICS 👀", "TEAM MANAGEMENT 🧑🏻‍🏫"]
-          },
-          {
-            "company": "XOTOSPHÈRE",
-            "title": "DÉVELOPPEUR AUTO-ENTREPRENEUR",
-            "from": "Septembre 2019",
-            "to": "Aujourd'hui",
-            "location": "Nantes, FR",
-            "description": "J’ai travaillé, en tant qu'auto-entrepreneur",
-            "summary": "",
-            "results": ["XOTOSPHÈRE : Fusion des réseaux sociaux et du secteur commercial pour soutenir les artisans locaux"],
-            "technologies": ["VUE 🥽", "TS 🚀", "SSH ✅", "FULLSTACK 📦", "GITLAB 🏃🏽‍♂️", "DOCKER 📃"]
           },
           {
             "company": "ROBERT LANG STUDIOS",

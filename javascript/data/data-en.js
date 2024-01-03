@@ -182,7 +182,7 @@ resumeEN = {
             "to": "September 2023",
             "location": "Nantes FR",
             "description": "Development of multiple front end applications within the L’Oréal Eco-System",
-            "summary": "V-Model methodology, 2-week cycles. Team of 12 members",
+            "summary": "V-Model methodology, 2-week cycles. Team of 20 members",
             "technologies": ["TS 🚀", "VUE 👀", "FIREBASE 🔥", "STORYBOOK 🌱", "VITE 🎁", "SCSS 🧑‍🎨", "FIGMA 🧩"],
             "results": ["Refactored and adapted codebase to utilize BEM class syntax", "Implemented end-to-end tests with Cypress", "Assisted in the implementation of a dynamic monolith architecture", "Development of an automation system"]
           },
@@ -193,7 +193,7 @@ resumeEN = {
             "to": "Avril 2022",
             "location": "Nantes FR",
             "description": "Development and management of various applications for the detection of public transportation flows",
-            "summary": "V-Model methodology, 2-week cycles. Team of 5 members",
+            "summary": "V-Model methodology, 2-week cycles. Team of 7 members",
             "technologies": ["ANGULAR ⛰️", "TS 🧲", "SPRING / JAVA 👔", "REACT 💻", "POSTGRE 🌋", "WEBPACK 💠"],
             "results": ["Creation of React/Angular modules for micro-frontends", "Study of a version upgrade from AngularJS to 14 with subsequent redesign", "Development of a cache system", "Creation of a batch system"]
           },
@@ -213,13 +213,24 @@ resumeEN = {
              "company": "IMAIOS",
              "title": "WEB DEVELOPER",
              "from": "July 2019",
-             "to": "December 2019",
+             "to": "September 2019",
              "location": "Montpellier, FR",
              "description": "The Atlas of anatomy and medical imaging, e-learning training for health professionals",
              "summary": "V-Model methodology, 2-week cycles. Team of 7 members",
              "results": ["Created test modules to facilitate AWS pipeline deployment processing", "Combined Ghost Inspector and Google Lighthouse to produce detailed reports", "Assisted with data migration, design, document conversion and multimedia workflow applications"],
              "technologies": ["NODEJS 🔥", "EJS 🕸", "WEBSOCKETS 🚃", "PHP 🤓", "UNITTESTING 👨🏼‍🔬", "LIGHTHOUSE 🚨"]
            },
+           {
+            "company": "XOTOSPHERE",
+            "title": "ENTREPRENEUR",
+            "from": "September 2019",
+            "to": "Today",
+            "location": "Nantes, FR",
+            "description": "Working as an entrepreneur",
+            "summary": "Agile Scrum methodology, a 4-week cycles. Team of 3 members",
+            "results": ["XOTOSPHERE : A project on the fusion of social and the commercial sector to support local artisans" ] ,
+            "technologies": ["VUE 🥽", "TS 🔥", "SSH ✅", "FULLSTACK 📦", "GITLAB-RUNNER 🏃🏽‍♂️", "DOCKER 📃"]
+          },
            {
              "company": "APPLE STORE",
              "title": "APPLE TECHNICIAN",
@@ -231,17 +242,6 @@ resumeEN = {
              "results": ["Established empowering communication experiences with the world’s most admired brands", "Sold $1.5M of products using sales and cogent techniques turning customers into promoters", "Lead product training and troubleshooting workshops with effective communication skills", "Worked with team members to deal with difficult interactions and complaints"],
              "technologies": ["IOS 📱", "OSX 🍏", "DIAGNOSTICS 👀", "TEAM MANAGEMENT 🧑🏻‍🏫"]
            },
-           {
-            "company": "XOTOSPHERE",
-            "title": "ENTREPRENEUR",
-            "from": "September 2019",
-            "to": "Today",
-            "location": "Nantes, FR",
-            "description": "Working as an entrepreneur",
-            "summary": "",
-            "results": ["XOTOSPHERE : A project on the fusion of social and the commercial sector to support local artisans" ] ,
-            "technologies": ["VUE 🥽", "TS 🔥", "SSH ✅", "FULLSTACK 📦", "GITLAB-RUNNER 🏃🏽‍♂️", "DOCKER 📃"]
-          },
            {
              "company": "ROBERT LANG STUDIOS",
              "title": "AUDIO ENGINEER, INSTRUCTOR ASSISTANT MANAGER",
